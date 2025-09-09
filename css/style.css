@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header{
+    background-color: rgb(77,77,125);
+    color: white;
+    padding: 10px;
+    text-size-adjust: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    text-size-adjust: 20px;
+}
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+
+
